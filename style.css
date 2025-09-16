@@ -1,0 +1,24 @@
+html body {
+    background-color: bisque;
+    margin: 0;
+    font-family:'Helvetica';
+    text-align: center;
+    height: 150%;
+}
+
+.nothing {
+    background-color: brown;
+    font-size: 60px;
+    padding: 15px;
+    width:70% !important;
+    margin: auto !important;
+    border-radius: 15px;
+    border: 1px black solid;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+    color: beige;
+}
+
+.forms {
+    margin: auto;
+    width: 80%;
+}
